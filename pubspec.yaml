@@ -2,7 +2,7 @@ name: flutter_pdf
 description: A new Flutter plugin.
 version: 0.0.1
 author: nhapt <phamnha0209.1995@gmail.com>
-homepage:
+homepage: https://github.com/NhaPCS/flutter_pdf
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
